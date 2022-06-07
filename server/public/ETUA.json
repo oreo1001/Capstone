@@ -1,0 +1,175 @@
+{
+  "info": [
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "devicename",
+      "name_KR": "제품 이름",
+      "name_EN": "product Name",
+      "value": "MCCB",
+      "unit": ""
+    },
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "modelname",
+      "name_KR": "모델 이름",
+      "name_EN": "Model Name",
+      "value": "250AF A Type",
+      "unit": ""
+    },
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "ETUstatus",
+      "name_KR": "극 수",
+      "name_EN": "Pole num",
+      "value": "3444",
+      "unit": ""
+    },
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "In",
+      "name_KR": "정격 전류",
+      "name_EN": "Rated Current",
+      "value": "250",
+      "unit": "A"
+    },
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "ETUstatus",
+      "name_KR": "정격 주파수",
+      "name_EN": "Rated Frequency",
+      "value": "60606060",
+      "unit": "Hz"
+    },
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "ETUfwVer",
+      "name_KR": "FW 버전",
+      "name_EN": "FW version",
+      "value": 0.25,
+      "unit": ""
+    },
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "productionDate",
+      "name_KR": "제품 생산 날짜",
+      "name_EN": "Production Date",
+      "value": "202152019122020320205",
+      "unit": ""
+    },
+    {
+      "menu": "INFO",
+      "subMenu": "Product Info",
+      "itemname": "productionNumber",
+      "name_KR": "생산 번호",
+      "name_EN": "Production Number",
+      "value": 580,
+      "unit": ""
+    }
+  ],
+"relay": [
+  {
+    "menu": "RELAY",
+    "subMenu": "Long time Protection",
+    "itemname": "IrSettingCurrent",
+    "name_KR": "Ir",
+    "name_EN": "Ir",
+    "value": 100,
+    "unit": "A"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Long time Protection",
+    "itemname": "TrSetting",
+    "name_KR": "Tr",
+    "name_EN": "Tr",
+    "value": [],
+    "unit": "sec"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Long time Protection",
+    "itemname": "In",
+    "name_KR": "In",
+    "name_EN": "In",
+    "value": "250",
+    "unit": "A"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Short time Protection",
+    "itemname": "IsdSetting",
+    "name_KR": "Isd",
+    "name_EN": "Isd",
+    "value": 375,
+    "unit": "A"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Short time Protection",
+    "itemname": "TsdSetting",
+    "name_KR": "Tsd",
+    "name_EN": "Tsd",
+    "unit": "sec"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Short time Protection",
+    "itemname": "TsdSetting",
+    "name_KR": "Isd I2t enable",
+    "name_EN": "Isd I2t enable",
+    "unit": ""
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Instantaneous Protection",
+    "itemname": "IiSetting",
+    "name_KR": "Ii",
+    "name_EN": "Ii",
+    "value": [],
+    "unit": "A"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Ground Fault Protection",
+    "itemname": "IgSetting",
+    "name_KR": "Ig",
+    "name_EN": "Ig",
+    "value": 0,
+    "unit": "A"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Ground Fault Protection",
+    "itemname": "TgSetting",
+    "name_KR": "Tg",
+    "name_EN": "Tg",
+    "value": 0.4,
+    "unit": "sec"
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "Ground Fault Protection",
+    "itemname": "TgSetting",
+    "name_KR": "Ig2t enable",
+    "name_EN": "Ig2t enable",
+    "value": "OFF",
+    "unit": ""
+  },
+  {
+    "menu": "RELAY",
+    "subMenu": "General Setting",
+    "itemname": "thermalOnOff",
+    "name_KR": "Thermal Memory",
+    "name_EN": "Thermal Memory",
+    "value": "on",
+    "unit": ""
+  }
+]
+}
